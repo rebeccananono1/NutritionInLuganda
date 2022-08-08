@@ -2,7 +2,7 @@
 
 This is a template repository for [WOM.fm](https://wom.fm). Template repositories let users generate new repositories with the same directory structure and files. It can serve as a sandbox for the development of an audio web application that can be used by local organizations to make vital knowledge and practical information accessible to marginalized, often illiterate populations. You can use the template to create an identical repository on your own GitHub account to play and learn. 
 
-You can check out the final app by clicking [here](https://womtestingrebecca.netlify.app/). (Which gives you this repository published using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)).
+You can check out the final app by clicking [here](https://endyaenungi.netlify.app/). (Which gives you this repository published using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)).
 
 If you have an account on GitHub, you can start using the template by clicking the button below.
 

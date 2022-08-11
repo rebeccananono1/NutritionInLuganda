@@ -25,170 +25,176 @@ Amplitude.init({
 */ //Old audio commented
 
       {
-         "name":"Nutrition in Luganda Audio 1",
-         "url":"./audio/MyAudioUgMusic/003.mp3",
+         "name":"Eby'endya",
+         "url":"./audio/001.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
 
       {
-         "name":"Nutrition in Luganda Audio 2",
+         "name":"Omugaso gwa okulya bulungi",
          "url":"./audio/002.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 3",
+         "name":"Endya ennungi kitegeza ki ?",
          "url":"./audio/003.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 4",
+         "name":"Emmere jentekeddwa okulya bulijo",
          "url":"./audio/004.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 5",
+         "name":"Bikulu ki mu kuziyiza endwadde byenetagga ?",
          "url":"./audio/005.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 6",
+         "name":"Nkola ntya okulaba nti nfuna omusayi ogumala ?",
          "url":"./audio/006.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 7",
+         "name":"Nkola ntya okulaba nti nina folic acid amala ?",
+         "url":"./audio/007.mp3",
+         //"source": "Mp3 Jaja",
+         //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
+      },
+      {
+         "name":"Nkola ntya okulaba nti nina calcium amala ?",
          "url":"./audio/008.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 9",
+         "name":"Nkola ntya okulaba nti nina iodine amala ?",
          "url":"./audio/009.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 10",
+         "name":"Nkobola ntya okukola ekyokunywa kya iodine ?",
          "url":"./audio/010.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 11",
+         "name":"Nkakasa ntya nti nina ekirungo kya Vitamin A ?",
          "url":"./audio/011.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 12",
+         "name":"Nsobola ntya okulya obulungi naye nga nsasanya kitono ?",
          "url":"./audio/012.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 13",
+         "name":"Biki ebikwatagana n'ebyokulya eby'obulabe ?",
          "url":"./audio/013.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 14",
+         "name":"Endya embi eyinza okuleta ntya endwadde ?",
          "url":"./audio/014.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 15",
+         "name":"Okuggwa'mu omusayi kye'ki ?",
          "url":"./audio/015.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 16",
+         "name":"Biki ebireta anaemia ?",
          "url":"./audio/016.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 17",
+         "name":"Nyinza'ntya okuziyiza okugwamu omusayi ?",
          "url":"./audio/017.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 18",
+         "name":"Beri beri kye'ki ? ",
          "url":"./audio/018.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 19",
+         "name":"Nyinza'ntya okuziyiza beri beri ?",
          "url":"./audio/019.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 20",
+         "name":"Buzibu ki obulala obuva ku kulya emmere enyingi oba okulya ebika by'emmere ebi kyamu ?",
          "url":"./audio/020.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 21",
+         "name":"Obulwadde bwa sukali ky'eki ?",
          "url":"./audio/021.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 22",
+         "name":"Nsobola'ntya okufuga sukali ? ",
          "url":"./audio/022.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 23",
+         "name":"Kiki kyenina okukola okulongosa endya yange ?",
          "url":"./audio/023.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 24",
+         "name":"Oziyiza otya obuzibu mu kukula kwa'abaana, nga kuva ku endya embi ? ",
          "url":"./audio/024.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 25",
+         "name":"Ndisa'ntya abana abato, abasusiza emyezi 6 ?",
          "url":"./audio/025.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 26",
+         "name":"Emeere ki ennungi ku baana abato, abasuka emyezi 6 ?",
          "url":"./audio/026.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 27",
+         "name":"Lwaki ekirisa kya Vitamin A kyamugaso ku mwana wange ?",
          "url":"./audio/027.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 28",
+         "name":"Lwaki iron wa mugaso ku mwana wange ?",
          "url":"./audio/028.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"
       },
       {
-         "name":"Nutrition in Luganda Audio 29",
+         "name":"Lwaki iodine wa mugaso ku mwana wange ?",
          "url":"./audio/029.mp3",
          //"source": "Mp3 Jaja",
          //"source_url": "https://www.mp3jaja.com/profile.php?names=Juliana%20Kanyomozi&id=108"

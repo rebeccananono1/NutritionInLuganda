@@ -1,6 +1,6 @@
 # WOM.fm-Sandbox
 
-This is a template repository for [WOM.fm](https://wom.fm). Template repositories let users generate new repositories with the same directory structure and files. It can serve as a sandbox for the development of an audio web application that can be used by local organizations to make vital knowledge and practical information accessible to marginalized, often illiterate populations. You can use the template to create an identical repository on your own GitHub account to play and learn. 
+WOM.fm is an open platform for accessible audio information  .on GBV . [This website](https://endyaenungi.netlify.app/) has been created to make audio information about nutrition accessible to Luganda speaking populations using short urls and QR codes.
 
 You can check out the final app by clicking [here](https://endyaenungi.netlify.app/). (Which gives you this repository published using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)).
 
